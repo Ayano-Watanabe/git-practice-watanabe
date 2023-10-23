@@ -1,2 +1,10 @@
+
 #Git演習問題
-aaaaaaaaaaaaa
+aaaaaaaaaaaa
+
+
+
+
+
+この部分はbranch後に変更しました。
+bbbbbbbbbbbbbbb
